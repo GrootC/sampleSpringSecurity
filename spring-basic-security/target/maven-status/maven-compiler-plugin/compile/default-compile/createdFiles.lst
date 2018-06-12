@@ -1,0 +1,3 @@
+com\test\spring\security\app\Application.class
+com\test\spring\security\config\MvcConfig.class
+com\test\spring\security\config\WebSecurityConfig.class
